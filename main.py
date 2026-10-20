@@ -1,12 +1,13 @@
 """
-Her i de her linjer kan man skrive lige så maget man vil om koden som skal tjene til formidling af
+Her i de her linjer kan man skrive lige så meget man vil om koden som skal tjene til formidling af
 hvad koden gør.  Det er ikke helt lige som et tekstbehandlings anlæg a la word.  Man skal feks selv skifte
 linje.
+Man kan for eksemepel skrive en besked til nogen der læser koden når den kommer til jorden igen.
 
 Hvis man vil skrive kommentarer ud for koden så kan det gøres om i eksemplerne nedenfor hvor der står en såkaldt
 'havelåge', bedre kendt som et 'hash tag' nemlig tegnet #.  Skriver man det tegn så bliver resten af linjen ikke
 læst som programkode af systemet.  Men det bliver så set som kommentar til koden.
-
+Hvis det ikke i forvejen står der skal man skrive noter om hvad der sker i den pågældende linje.
 """
 
 from exif import Image
