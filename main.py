@@ -8,6 +8,7 @@ Hvis man vil skrive kommentarer ud for koden så kan det gøres om i eksemplerne
 'havelåge', bedre kendt som et 'hash tag' nemlig tegnet #.  Skriver man det tegn så bliver resten af linjen ikke
 læst som programkode af systemet.  Men det bliver så set som kommentar til koden.
 Hvis det ikke i forvejen står der skal man skrive noter om hvad der sker i den pågældende linje.
+Hvis det står der i forvejen så prøve at oversætte det til dansk.
 """
 
 from exif import Image
